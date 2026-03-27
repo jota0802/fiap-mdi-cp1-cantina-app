@@ -171,15 +171,6 @@ router.push({
 
 Na tela de **Confirmação**, os dados são recuperados com `useLocalSearchParams()`.
 
-## Próximos Passos
-
-- Integração com backend para cardápio dinâmico e preços em tempo real
-- Sistema de pagamento integrado (PIX, cartão)
-- Painel administrativo para a cantina gerenciar pedidos e chamar senhas
-- Notificações push quando o pedido estiver pronto
-- Histórico de pedidos do aluno
-- Autenticação com RM do aluno
-
 ---
 
 FIAP — Engenharia de Software — 3º Ano — Mobile Development & IoT — 2026
