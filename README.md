@@ -71,34 +71,25 @@ Depois escaneie o QR Code com o app **Expo Go** no celular, ou pressione `w` par
 
 Tela inicial com logo FIAP, seção "Como Funciona" em 3 passos e destaques do cardápio.
 
-<!-- Substituir pelo print real -->
-> _Print da tela Home aqui_
+![Tela Home](Fotos/image1.png)
 
 #### Tela 2 — Cardápio
 
 Cardápio completo organizado por categorias. O aluno adiciona e remove itens com os botões +/−. Uma barra inferior mostra o total em tempo real.
 
-<!-- Substituir pelo print real -->
-> _Print da tela Cardápio aqui_
+![Tela Cardápio](Fotos/image2.png)
 
 #### Tela 3 — Confirmação
 
 Após confirmar o pedido, uma tela de loading aparece por 1.5s simulando o processamento. Em seguida, a senha de 3 dígitos é exibida junto com o resumo do pedido.
 
-<!-- Substituir pelo print real -->
-> _Print da tela Confirmação aqui_
+![Tela Confirmação](Fotos/image3.png)
 
 #### Tela 4 — Sobre
 
 Informações sobre o projeto, problema identificado, solução, integrantes e tecnologias utilizadas.
 
-<!-- Substituir pelo print real -->
-> _Print da tela Sobre aqui_
-
-### Vídeo / GIF
-
-<!-- Substituir pelo GIF ou link do vídeo -->
-> _GIF ou link do vídeo demonstrando o fluxo principal aqui_
+![Tela Sobre](Fotos/image4.png)
 
 ## Decisões Técnicas
 
